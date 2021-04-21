@@ -1,0 +1,3 @@
+- Hi, I’m @dragergam also Drake
+- I’m interested in Unreal Engine and game development with it
+- I’m currently learning unreal engine and its blueprint system
